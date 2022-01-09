@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @adamdgregory33
+- 👀 I’m interested in all kinds of tech
+- 🌱 I’m currently learning some front end technologies to marry with my backend skills
