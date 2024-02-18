@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @adamdgregory33
-- 👀 I’m interested in all kinds of tech
-- 🌱 I’m currently learning some front end technologies to marry with my backend skills
+- 👀 I’m a full stack developer, primarily using C# and .Net technologies, on cloud services
+- 🌱 I’m occasionally tinkering with personal projects on my Github
